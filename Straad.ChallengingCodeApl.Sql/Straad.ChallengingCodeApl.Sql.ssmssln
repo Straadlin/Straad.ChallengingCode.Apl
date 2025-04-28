@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 19.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Straad.ChallengingCodeApl.Sql", "Straad.ChallengingCodeApl.Sql\Straad.ChallengingCodeApl.Sql.ssmssqlproj", "{A3B491E8-3611-4D6A-8DAA-A5D5EDA559FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3B491E8-3611-4D6A-8DAA-A5D5EDA559FB}.Default|Default.ActiveCfg = Default
+		{07A12414-1CC5-4A25-97E3-2C270CFBF34A}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76F5ED6F-20C2-401C-AF2F-24D5464290A7}
+	EndGlobalSection
+EndGlobal
