@@ -1,0 +1,12 @@
+﻿namespace Straad.ChallengingCodeApl.ApiService.Presentation.WebApiWinServ.Entities;
+
+public class Producto
+{
+    public Producto()
+    {
+        Nombre = string.Empty;
+    }
+    public int Id { get; set; }
+    public string Nombre { get; set; }
+    public decimal? Precio { get; set; }
+}

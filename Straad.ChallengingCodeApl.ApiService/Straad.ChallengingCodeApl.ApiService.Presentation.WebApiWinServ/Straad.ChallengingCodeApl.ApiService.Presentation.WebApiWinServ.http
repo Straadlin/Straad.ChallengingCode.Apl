@@ -1,0 +1,6 @@
+@Straad.ChallengingCodeApl.ApiService.Presentation.WebApiWinServ_HostAddress = http://localhost:5105
+
+GET {{Straad.ChallengingCodeApl.ApiService.Presentation.WebApiWinServ_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
